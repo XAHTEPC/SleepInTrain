@@ -1,0 +1,52 @@
+<resources>
+    <string name="app_name">SleepInTrain</string>
+    <string name="t1">Щелковская</string>
+    <string name="t2">Первомайская</string>
+    <string name="t3">Измайловская</string>
+    <string name="t4">Партизанская</string>
+    <string name="t5">Семеновская</string>
+    <string name="t6">Электрозаводская</string>
+    <string name="t7">Бауманская</string>
+    <string name="t8">Курская</string>
+    <string name="t9">Площадь революции</string>
+    <string name="t10">Арбатская</string>
+    <string name="t11">Смоленская</string>
+    <string name="t12">Киевская</string>
+    <string name="t13">Парк Победы</string>
+    <string name="t14">Славянский бульвар</string>
+    <string name="t15">Кунцевская</string>
+    <string name="t16">Молодежная</string>
+    <string name="t17">Крылатская</string>
+    <string name="t18">Строгино</string>
+    <string name="t19">Мякино</string>
+    <string name="t20">Волоколамская</string>
+    <string name="t21">Митино</string>
+    <string name="t22">Пятницкое шоссе</string>
+
+
+    <string-array name="array_station">
+        <item>@string/t1</item>
+        <item>@string/t2</item>
+        <item>@string/t3</item>
+        <item>@string/t4</item>
+        <item>@string/t5</item>
+        <item>@string/t6</item>
+        <item>@string/t7</item>
+        <item>@string/t8</item>
+        <item>@string/t9</item>
+        <item>@string/t10</item>
+        <item>@string/t11</item>
+        <item>@string/t12</item>
+        <item>@string/t13</item>
+        <item>@string/t14</item>
+        <item>@string/t15</item>
+        <item>@string/t16</item>
+        <item>@string/t17</item>
+        <item>@string/t18</item>
+        <item>@string/t19</item>
+        <item>@string/t20</item>
+        <item>@string/t21</item>
+        <item>@string/t22</item>
+
+    </string-array>
+</resources>

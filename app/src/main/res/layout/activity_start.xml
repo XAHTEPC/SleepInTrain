@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    tools:context=".Start">
+
+        <TextView
+            android:layout_marginTop="150dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:fontFamily="serif"
+            android:gravity="center_horizontal"
+            android:text="Sleep in Train"
+            android:textAppearance="@style/TextAppearance.AppCompat.Body1"
+            android:textColor="#000000"
+            android:textSize="12pt"
+            android:textStyle="bold"></TextView>
+
+    <TextView
+        android:layout_marginTop="10pt"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center_horizontal"
+        android:text="Приложение для наглядного представления расписания поездов, которые могут быть созданы специально для людей, у которых проблемы со сном. Два поезда будут выезжать с разных сторон Москвы, проезжая по станциям синей ветки метро. В приложении можно не только посмотреть их расписание, но и приобрести билет для поездки"
+        android:fontFamily="serif"
+        android:textColor="#000000"
+        android:textSize="7pt"></TextView>
+
+    <Button
+        android:layout_marginTop="10pt"
+        android:id="@+id/stat"
+        android:textSize="8pt"
+        android:layout_width="350dp"
+        android:layout_height="40dp"
+        android:layout_gravity="center"
+        android:background="#C97DD7FF"
+        android:fontFamily="serif"
+        android:onClick="start"
+        android:text="Начать пользоваться"></Button>
+</LinearLayout>
